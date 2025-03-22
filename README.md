@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @404Hippo
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning important things
-- 💞️ I’m looking to collaborate on things
-- 📫 How to reach me beiccreeper@Gmail.com
+- 👀 I’m currently working on code on PROS for V5RC Robotics. (C/C++)
+- 🌱 I’m currently learning how to make my code better and more efficient
+- 💞️ I’m looking to anyone who is willing to help me learn
+- 📫 How to reach me contact me through discord. 404hippo
 
 <!---
 404Hippo/404Hippo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
